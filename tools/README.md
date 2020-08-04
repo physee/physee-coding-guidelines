@@ -35,14 +35,14 @@ Id: marus25.cortex-debug
 Description: ARM Cortex-M GDB Debugger support for VSCode
 Version: 0.3.7
 Publisher: marus25
-VS Marketplace Link: [link](https://marketplace.visualstudio.com/items?itemName=marus25.cortex-debug
+VS Marketplace Link: [link](https://marketplace.visualstudio.com/items?itemName=marus25.cortex-debug)
 
 Name: Markdown All in One
 Id: yzhang.markdown-all-in-one
 Description: All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
 Version: 3.2.0
 Publisher: Yu Zhang
-VS Marketplace Link: [link](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+VS Marketplace Link: [link](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 Name: Markdown Converter
 Id: manuth.markdown-converter
