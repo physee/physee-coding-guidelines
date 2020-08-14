@@ -84,3 +84,9 @@ PyCharm by JetBrains [here](https://www.jetbrains.com/pycharm/)
 
 # Add more tools here
 
+## iTerm
+For Mac user only: [link] (https://www.iterm2.com/)
+
+
+
+
